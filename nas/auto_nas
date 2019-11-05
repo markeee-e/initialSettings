@@ -1,0 +1,3 @@
+temp		-fstype=afp	afp://marke:duffufkckaRo0@nas.marke.io/temp
+photo		-fstype=afp	afp://marke:duffufkckaRo0@nas.marke.io/photo
+video		-fstype=afp	afp://marke:duffufkckaRo0@nas.marke.io/video
